@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/LabyrintCev/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Material.uasset",
+				"C:/LabyrintCev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/LabyrintCev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/LabyrintCev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/LabyrintCev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UD/Q3QW43STDUK2Y2W09NS51N.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit_albedo.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit_metallic.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit_AO.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit_normal.uasset",
+				"C:/LabyrintCev/Content/Assets/Medikit/Medikit_roughness.uasset"
+			]
+		}
+	]
+}
